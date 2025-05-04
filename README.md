@@ -1,4 +1,8 @@
-## Hi there 👋
+[![forthebadge](https://forthebadge.com/images/featured/featured-uses-badges.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/approved-by-my-mom.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+
+## Hello!
+
+My name is Thomas and I like to build stuff. Some of it is here, most of it is not. If you want you can hire me, and I build stuff for you too! Just ask. I am a very nice guy.
 
 <!--
 **tjblackheart/tjblackheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
