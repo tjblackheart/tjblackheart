@@ -1,5 +1,3 @@
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/approved-by-my-mom.svg)](https://forthebadge.com)
-
 ## Hello!
 
 My name is Thomas and I like to build stuff. Some of it is here, most of it is not. If you want you can hire me, and I build stuff for you too! Just ask. I am a very nice guy.
